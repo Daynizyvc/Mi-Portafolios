@@ -18,5 +18,14 @@ header nav{
     text-decoration: none;
 }
 #img-logo{
-    width: 100px;
+    width: 100px;   
+}
+.principal{
+    width: 100vw;
+    height: 40vh;
+    border: solid 1px red;
+    display: flex;
+}
+#img-me{
+    width: 200px;
 }

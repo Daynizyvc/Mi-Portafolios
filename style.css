@@ -22,10 +22,21 @@ header nav{
 }
 .principal{
     width: 100vw;
-    height: 40vh;
+    height: 100vh;
     border: solid 1px red;
     display: flex;
 }
+
 #img-me{
     width: 200px;
+    border-radius: 50%;
+    border: 5px solid #3768E8;
+}
+
+.icon{
+    width:3rem;
+}
+.about-me{
+    width: 100vw;
+    height: 100vh;
 }
